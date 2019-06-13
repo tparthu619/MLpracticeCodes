@@ -1,3 +1,3 @@
-github email    : parthums145@gmail.com
-github username : tparthu619
-password        : as usual password
+github email    : check your local file
+github username : check your username
+password        : check your password
